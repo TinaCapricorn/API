@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x070wi6eal6iq4ym?svg=true)](https://ci.appveyor.com/project/TinaCapricorn/api-llpp8)
